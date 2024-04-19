@@ -1,0 +1,39 @@
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  color: blueviolet;
+  font-size: 20px;
+}
+ol {
+  color:deeppink;
+  background-color: blueviolet;
+  width: 90px;
+  height: 230px;
+}
+body {
+  background-image: url(https://antimatter.vn/wp-content/uploads/2022/05/phong-nen-xanh-duong-chup-anh-the.jpg);
+}
+p {
+  height: 20px;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+  color: rgb(0, 0, 0);
+  size: 200px;
+  font-size: ;
+  width: auto;
+}
+#vibeo {
+  color: darkgreen;
+}
+.demo {
+  color: darkgreen;
+}
+#nut {
+  background-color: red;
+}
+.demo1 {
+  color: darkgreen;
+}
+input:checked ~ h3{
+    display:none
+}
+
